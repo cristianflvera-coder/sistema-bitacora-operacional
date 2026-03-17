@@ -53,7 +53,7 @@ Técnico (celular con cuenta Google activa)
 | Fecha | Calendario | Fecha de la actividad |
 | Hora de inicio | Hora | HH:MM de inicio del trabajo |
 | Hora de término | Hora | HH:MM de término del trabajo |
-| Ubicación | Lista desplegable | Edificio o máquina (ej: Expressorter, Hub Principal, Exterior) |
+| Ubicación | Lista desplegable | Edificio o máquina |
 | Tipo de trabajo | Lista desplegable | Eléctrico / Mantención Correctiva / Preventiva / Informe o Check-List / Monitoreo / Servicios Generales / otros |
 | Detalles del trabajo | Texto libre | Descripción con las palabras del técnico |
 | Repuestos utilizados | Texto libre | Materiales y repuestos ocupados |
@@ -82,7 +82,7 @@ Desde su implementación, el sistema acumula **más de 2.200 registros reales** 
 El sistema genera automáticamente visualizaciones de datos incluyendo:
 - Distribución de actividades por técnico
 - Actividad por turno (mañana / tarde / noche / intermedio)
-- Actividad por ubicación (Expressorter, Hub Principal, Exterior, etc.)
+- Actividad por ubicación 
 - Distribución por tipo de trabajo
 - Participación colaborativa entre técnicos
 
